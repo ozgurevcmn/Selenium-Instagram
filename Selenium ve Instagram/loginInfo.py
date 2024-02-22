@@ -1,3 +1,3 @@
 # loginInfo.py
-username = "your_username"
-password = "your_password"
+username = "your_instagram_username"
+password = "your_instagram_password"
